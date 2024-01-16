@@ -1,0 +1,7 @@
+Semester ganjil 
+web client
+-home 
+-about
+-contact us
+-gallery
+-message
